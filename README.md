@@ -2,7 +2,7 @@
 
 Hi, I'm **Janmejoy Mahato** 👋   
 I am a **Full Stack Web Developer** and **Cybersecurity Enthusiast**.  
-A fresher passionate about building secure, modern, and scalable web applications. I love learning new technologies, exploring cybersecurity, and contributing to meaningful projects. 🚀  
+A fresher passionate about building secure, modern, and scalable web applications. I love learning new technologies, exploring cybersecurity, and contributing to meaningful projects. 🚀   
 
 ---
 
