@@ -9,7 +9,7 @@ A fresher passionate about building secure, modern, and scalable web application
 ## 📫 Contact Me
 - **Email:**  [janmejoymahato529@gmail.com](mailto:janmejoymahato529@gmail.com)  
 - **Phone:** +91 74776 61933  
-- **GitHub:** [github.com/janmej0y](https://github.com/janmej0y)  
+- **GitHub:**  [github.com/janmej0y](https://github.com/janmej0y)  
 - **LinkedIn:** [linkedin.com/in/janmej0y](https://www.linkedin.com/in/janmej0y)  
 
 ---
