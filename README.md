@@ -1,4 +1,4 @@
-![tenor](https://github.com/user-attachments/assets/95692ff6-2cd0-4927-a42d-06f8a99be195)<img width="1042" height="609" alt="lululu" src="https://github.com/user-attachments/assets/be327a99-9411-4bf4-b53f-4a227c51921d" />
+<img width="1042" height="609" alt="lululu" src="https://github.com/user-attachments/assets/be327a99-9411-4bf4-b53f-4a227c51921d" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Hi,+I'm+Janmejoy!+👋;I+Build+Full+Stack+Apps;Next.js+%7C+MongoDB+%7C+AI" alt="Typing SVG" />
