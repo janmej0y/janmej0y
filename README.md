@@ -108,4 +108,6 @@ Secure web-based voting system focused on authentication and data handling.
 
 
 ![tenor](https://github.com/user-attachments/assets/a5fd9d5d-efc4-485e-a664-c7e0949b2f26)
+![for-3-5275](https://github.com/user-attachments/assets/558b4638-5659-41f9-9b32-7eb15b1bc495)
+→→→→→→→→→→→→→→→→→→→→→→→![WhatsApp Video 2026-01-12 at 1 14 52 PM](https://github.com/user-attachments/assets/d8bbef01-a820-4b4f-8fdf-096f1b530db5)
 
