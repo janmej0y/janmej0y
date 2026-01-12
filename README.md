@@ -1,18 +1,21 @@
-# About Me 
+# 👋 Hi, I'm Janmejoy Mahato
 
-Hi, I'm **Janmejoy Mahato** 👋   
-I am a **Full Stack Web Developer** and **Cybersecurity Enthusiast**.    
-A fresher passionate about building secure, modern, and scalable web applications. I love learning new technologies, exploring cybersecurity, and contributing to meaningful projects. 🚀   
+ A developer passionate about building **modern, secure, and scalable web applications**.
 
---- 
+I enjoy working across the full stack — from crafting responsive user interfaces to building robust backends with authentication, databases, and AI integration. I’m especially interested in **AI-powered products**, **secure system design**, and **real-world project architecture**.
 
-## 📫 Contact Me
-- **Email:**  [janmejoymahato529@gmail.com](mailto:janmejoymahato529@gmail.com)  
-- **Phone:** +91 74776 61933  
-- **GitHub:**  [github.com/janmej0y](https://github.com/janmej0y)  
-- **LinkedIn:** [linkedin.com/in/janmej0y](https://www.linkedin.com/in/janmej0y)  
+🎯 **Goal:** Become a high-impact software engineer working on production-grade products.
 
 ---
+
+## 🚀 Currently Working On
+
+- 🤖 **Baklol** — AI chatbot with authentication, MongoDB, and Gemini API  
+- 🔐 Strengthening my skills in secure backend development  
+- 🌱 Learning system design, cloud deployment, and web security
+
+---
+
 
 ## 🛠️ Skills & Technologies
 
@@ -42,18 +45,54 @@ A fresher passionate about building secure, modern, and scalable web application
 
 ---
 
+### 🤖 AI
+Google Gemini API • AI app integration • chatbot systems  
+
+---
+
+## 🛡 Cybersecurity Focus
+
+- Web application security fundamentals  
+- Secure authentication systems  
+- Penetration testing basics  
+- Network traffic analysis  
+- Data protection and secure coding practices  
+
+---
+
 ## 🌟 Featured Projects
 
-- **[Online Voting System](https://github.com/janmej0y/Online-Voting-System)** – A simpliest voting system to showcasing my skills and projects.  
-- **[Weather App](https://github.com/janmej0y/Weather-App)** – Sleek frontend application with interactive UI and mock API data.  
-- **Other Projects:** E-commerce UI templates, JavaScript games, and small cybersecurity experiments.  
+### 🤖 Baklol — AI Chatbot Platform  
+AI-powered chatbot built with Next.js, Gemini API, MongoDB, and authentication.  
+Features secure login, persistent chat history, modern UI, and rich markdown support.  
+🔗 Repo: https://github.com/janmej0y/Baklol-Chatbot  
+🌐 Live: https://baklol-chatbot.vercel.app/
+
+---
+
+---
+
+### 🗳 Online Voting System  
+Secure web-based voting system focused on authentication and data handling.  
+🔗 https://github.com/janmej0y/Online-Voting-System
 
 ---
 
 ## 📊 GitHub Stats
 
-![Janmejoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=janmej0y&show_icons=true&theme=tokyonight&count_private=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janmej0y&layout=compact&theme=tokyonight)  
-
+![Janmejoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=janmej0y&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janmej0y&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janmej0y&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: janmejoymahato529@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/janmej0y  
+🐙 GitHub: https://github.com/janmej0y  
+🌐 Portfolio: https://janmejoy.is-a.dev  
+
+---
+
+⚡ *“Build projects that speak louder than resumes.”*
