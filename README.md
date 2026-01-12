@@ -1,6 +1,8 @@
 <img width="1042" height="609" alt="lululu" src="https://github.com/user-attachments/assets/be327a99-9411-4bf4-b53f-4a227c51921d" />
 
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Hi,+I'm+Janmejoy!+👋;I+Build+Full+Stack+Apps;Next.js+%7C+MongoDB+%7C+AI" alt="Typing SVG" />
+</h1>
 # 👋 Hi, I'm Janmejoy Mahato
 
  A developer passionate about building **modern, secure, and scalable web applications**.
@@ -66,8 +68,11 @@ Google Gemini API • AI app integration • chatbot systems
 ## 🌟 Featured Projects
 
 ### 🤖 Baklol — AI Chatbot Platform  
-AI-powered chatbot built with Next.js, Gemini API, MongoDB, and authentication.  
-Features secure login, persistent chat history, modern UI, and rich markdown support.  
+**I just built a production-ready AI Chatbot!**
+* 🧠 Powered by **Google Gemini 2.5 Flash**
+* 💾 **MongoDB** Memory (Remembers your chats)
+* 🔐 **Google Authentication** (Secure login)
+* 🚫 **Smart Rate Limiting** (Blocks spam automatically)
 🔗 Repo: https://github.com/janmej0y/Baklol-Chatbot  
 🌐 Live: https://baklol-chatbot.vercel.app/
 
