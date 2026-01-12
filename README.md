@@ -1,3 +1,6 @@
+![WhatsApp Image 2026-01-12 at 7 03 07 AM](https://github.com/user-attachments/assets/c5b2151c-0fad-4f0d-b4be-8fefff5f521b)
+
+
 # 👋 Hi, I'm Janmejoy Mahato
 
  A developer passionate about building **modern, secure, and scalable web applications**.
