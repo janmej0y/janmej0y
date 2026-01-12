@@ -1,4 +1,4 @@
-![WhatsApp Image 2026-01-12 at 7 03 07 AM](https://github.com/user-attachments/assets/c5b2151c-0fad-4f0d-b4be-8fefff5f521b)
+<img width="1042" height="609" alt="lululu" src="https://github.com/user-attachments/assets/be327a99-9411-4bf4-b53f-4a227c51921d" />
 
 
 # 👋 Hi, I'm Janmejoy Mahato
