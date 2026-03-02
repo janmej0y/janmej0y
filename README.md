@@ -15,7 +15,7 @@ I enjoy working across the full stack — from crafting responsive user interfac
 
 ## 🚀 Currently Working On
 
-- 🤖 **Baklol** — AI chatbot with authentication, MongoDB, and Gemini API  
+- 🤖 **Kurmi** — AI chatbot with authentication, MongoDB, and Gemini API  
 - 🔐 Strengthening my skills in secure backend development  
 - 🌱 Learning system design, cloud deployment, and web security
 
@@ -67,7 +67,7 @@ Google Gemini API • AI app integration • chatbot systems
 
 ## 🌟 Featured Projects
 
-### 🤖 Baklol — AI Chatbot Platform  
+### 🤖 Kurmi — AI Chatbot Platform  
 **I just built a production-ready AI Chatbot!**
 * 🧠 Powered by **Google Gemini 2.5 Flash**
 * 💾 **MongoDB** Memory (Remembers your chats)
@@ -88,9 +88,13 @@ Secure web-based voting system focused on authentication and data handling.
 
 ## 📊 GitHub Stats
 
-![Janmejoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=janmej0y&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janmej0y&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janmej0y&theme=tokyonight)
+## 📊 GitHub Stats
+
+![Janmejoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=janmej0y&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janmej0y&layout=compact&theme=tokyonight&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=janmej0y&theme=tokyonight)
 
 ---
 
