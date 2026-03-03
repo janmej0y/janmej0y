@@ -1,117 +1,117 @@
-<img width="1042" height="609" alt="lululu" src="https://github.com/user-attachments/assets/be327a99-9411-4bf4-b53f-4a227c51921d" />
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Hi,+I'm+Janmejoy!+👋;I+Build+Full+Stack+Apps;Next.js+%7C+MongoDB+%7C+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Janmejoy+Mahato+%F0%9F%91%8B;Full-Stack+Developer+(Next.js+%7C+TypeScript+%7C+Node.js);I+Build+Secure%2C+Scalable%2C+Real-World+Products" alt="Typing SVG" />
 </h1>
-# 👋 Hi, I'm Janmejoy Mahato
 
- A developer passionate about building **modern, secure, and scalable web applications**.
+<p align="center">
+  <a href="https://github.com/janmej0y"><img src="https://komarev.com/ghpvc/?username=janmej0y&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" /></a>
+  <a href="https://github.com/janmej0y?tab=followers"><img src="https://img.shields.io/github/followers/janmej0y?style=for-the-badge&label=Followers&color=2563eb" alt="Followers" /></a>
+  <a href="https://github.com/janmej0y"><img src="https://img.shields.io/badge/Open%20Source-Lover-10b981?style=for-the-badge" alt="Open Source Lover" /></a>
+</p>
 
-I enjoy working across the full stack — from crafting responsive user interfaces to building robust backends with authentication, databases, and AI integration. I’m especially interested in **AI-powered products**, **secure system design**, and **real-world project architecture**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/janmej0y"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://janmejoy.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:janmejoymahato529@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-🎯 **Goal:** Become a high-impact software engineer working on production-grade products.
+## About Me
 
----
+I am a full-stack developer focused on building modern, secure, and scalable applications.
+I enjoy shipping production-ready products with clean UX, reliable backend flows, and practical AI integrations.
 
-## 🚀 Currently Working On
-
-- 🤖 **Kurmi** — AI chatbot with authentication, MongoDB, and Gemini API  
-- 🔐 Strengthening my skills in secure backend development  
-- 🌱 Learning system design, cloud deployment, and web security
-
----
-
-
-## 🛠️ Skills & Technologies
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Cybersecurity & Tools
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-FF6F61?style=for-the-badge&logo=hackthebox&logoColor=white) 
-![Penetration Testing](https://img.shields.io/badge/PenTesting-008080?style=for-the-badge&logo=owasp&logoColor=white) 
-![Wireshark](https://img.shields.io/badge/Wireshark-1DA1F2?style=for-the-badge&logo=wireshark&logoColor=white) 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+- Current focus: System design, cloud deployment, and secure backend architecture
+- Main stack: Next.js, TypeScript, Node.js, MongoDB, Supabase
+- Goal: Build high-impact software used by real users
 
 ---
 
-### 🤖 AI
-Google Gemini API • AI app integration • chatbot systems  
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,js,react,nodejs,express,tailwind,bootstrap,mongodb,mysql,supabase,git,github,vscode&perline=7" alt="Tech stack" />
+</p>
 
 ---
 
-## 🛡 Cybersecurity Focus
+## Featured Projects
 
-- Web application security fundamentals  
-- Secure authentication systems  
-- Penetration testing basics  
-- Network traffic analysis  
-- Data protection and secure coding practices  
+### 🏠 RentHub
+**Modern rental listing platform to browse, compare, chat, and book properties with polished UX.**
 
----
+<p>
+  <a href="https://github.com/janmej0y/RentHub"><img src="https://img.shields.io/badge/Repo-RentHub-111827?style=for-the-badge&logo=github" alt="RentHub Repo" /></a>
+  <a href="https://rent-hub-two.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-16a34a?style=for-the-badge&logo=vercel" alt="RentHub Live" /></a>
+</p>
 
-## 🌟 Featured Projects
+**Highlight:** Mock-first architecture keeps development moving even when backend/network is unstable.
 
-### 🤖 Kurmi — AI Chatbot Platform  
-**I just built a production-ready AI Chatbot!**
-* 🧠 Powered by **Google Gemini 2.5 Flash**
-* 💾 **MongoDB** Memory (Remembers your chats)
-* 🔐 **Google Authentication** (Secure login)
-* 🚫 **Smart Rate Limiting** (Blocks spam automatically)
-🔗 Repo: https://github.com/janmej0y/Baklol-Chatbot  
-🌐 Live: https://baklol-chatbot.vercel.app/
+- Stack: Next.js 15, TypeScript, React 19, Tailwind, shadcn/ui, Supabase
+- Discovery: advanced filters, sorting, map-style exploration, compare, saved/recently viewed
+- Booking: multi-step flow, date-time selection, UPI + QR + screenshot upload, agreement consent
+- Profile and receipts: branded printable receipts, receipt archive, profile completion and settings
+- Reliability: local fallbacks for chat and receipt archive, resilient booking behavior
 
----
+<details>
+<summary><b>RentHub Details (Quick View)</b></summary>
 
----
+- Auth: mock login flow + Supabase auth integration points + protected routes
+- Property pages: gallery, fullscreen preview, amenities chips, reviews with helpful votes
+- Project structure: app, components, context, hooks, lib, types
+- Scripts: `npm run dev`, `npm run build`, `npm run start`, `npm run lint`, `npm run typecheck`
+- Notes: mock/local fallback supported across multiple critical flows
 
-### 🗳 Online Voting System  
-Secure web-based voting system focused on authentication and data handling.  
-🔗 https://github.com/janmej0y/Online-Voting-System
-
----
-
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-![Janmejoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=janmej0y&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janmej0y&layout=compact&theme=tokyonight&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=janmej0y&theme=tokyonight)
+</details>
 
 ---
 
-## 📫 Connect With Me
+### 🗳️ EzeeVote Online Voting System
+**Secure digital election platform with profile verification and powerful admin control studio.**
 
-📧 Email: janmejoymahato529@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/janmej0y  
-🐙 GitHub: https://github.com/janmej0y  
-🌐 Portfolio: https://janmejoy.is-a.dev  
+<p>
+  <a href="https://github.com/janmej0y/Online-Voting-System"><img src="https://img.shields.io/badge/Repo-EzeeVote-111827?style=for-the-badge&logo=github" alt="EzeeVote Repo" /></a>
+  <a href="https://online-voting-system-henna.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-16a34a?style=for-the-badge&logo=vercel" alt="EzeeVote Live" /></a>
+</p>
+
+- Stack: HTML, CSS, JavaScript, Node.js, Express, SQLite, JWT, Multer, Chart.js
+- Authentication: Google Sign-In + JWT session handling
+- Verification: KYC-style profile verification with live photo capture
+- Election lifecycle: draft, active, closed, archived
+- Admin studio: candidate CRUD + CSV import, broadcasts, logs, results export
+- Trust features: one-vote-per-election enforcement, vote receipts, history timeline
+
+<details>
+<summary><b>EzeeVote Capabilities (Quick View)</b></summary>
+
+- Public/User APIs: login, profile verification, elections, vote, results, feedback
+- Admin APIs: election management, candidate import, analytics, CSV exports, activity logs
+- Local setup: migrations + auto-port fallback (5000 to 5005)
+- Security: admin route protection, DB constraints, JWT expiry
+- Roadmap: MFA/OTP, notifications, role granularity, CI/tests, docker deployment
+
+</details>
 
 ---
 
-⚡ *“Build projects that speak louder than resumes.”*
+## GitHub Analytics
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=janmej0y&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janmej0y&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top languages" />
+</p>
 
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=janmej0y&theme=tokyonight" alt="GitHub streak" />
+</p>
 
-![tenor](https://github.com/user-attachments/assets/a5fd9d5d-efc4-485e-a664-c7e0949b2f26)
-![for-3-5275](https://github.com/user-attachments/assets/558b4638-5659-41f9-9b32-7eb15b1bc495)
-→→→→→→→→→→→→→→→→→→→→→→→![WhatsApp Video 2026-01-12 at 1 14 52 PM](https://github.com/user-attachments/assets/d8bbef01-a820-4b4f-8fdf-096f1b530db5)
+---
 
+## Connect
+
+- Email: janmejoymahato529@gmail.com
+- LinkedIn: https://www.linkedin.com/in/janmej0y
+- Portfolio: https://janmejoy.is-a.dev
+- GitHub: https://github.com/janmej0y
+
+---
+
+> Build projects that speak louder than resumes.
