@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Janmejoy+Mahato+%F0%9F%91%8B;Full-Stack+Developer+(Next.js+%7C+TypeScript+%7C+Node.js);I+Build+Secure%2C+Scalable%2C+Real-World+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=820&lines=Hi%2C+I%27m+Janmejoy+Mahato+%F0%9F%91%8B;Full-Stack+Developer+(Next.js+%7C+TypeScript+%7C+Node.js);I+Build+Secure%2C+Scalable%2C+Real-World+Products" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -9,9 +9,17 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Full--Stack%20Developer-success?style=for-the-badge" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Location-India-2563eb?style=for-the-badge" alt="Location India" />
+  <img src="https://img.shields.io/badge/Availability-Immediate-16a34a?style=for-the-badge" alt="Availability Immediate" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/janmej0y"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://janmejoy.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:janmejoymahato529@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://YOUR-RESUME-LINK-HERE"><img src="https://img.shields.io/badge/Resume-View%20PDF-0f766e?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume" /></a>
+  <a href="https://calendly.com/YOUR-USERNAME/15min"><img src="https://img.shields.io/badge/Book%2015%20min%20Call-F59E0B?style=flat-square&logo=googlecalendar&logoColor=white" alt="Book a call" /></a>
 </p>
 
 ## About Me
