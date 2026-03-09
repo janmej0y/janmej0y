@@ -1,0 +1,75 @@
+<svg width="1400" height="320" viewBox="0 0 1400 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.45" stop-color="#0F2A4D"/>
+      <stop offset="1" stop-color="#0B6B8A"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(255 105) rotate(43) scale(218 182)">
+      <stop stop-color="#67E8F9" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#67E8F9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1090 88) rotate(34) scale(246 184)">
+      <stop stop-color="#34D399" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#34D399" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowC" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1092 252) rotate(155) scale(320 210)">
+      <stop stop-color="#60A5FA" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1400" height="320" rx="24" fill="url(#bg)"/>
+  <rect x="28" y="28" width="1344" height="264" rx="18" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.08)"/>
+  <ellipse cx="255" cy="105" rx="218" ry="182" fill="url(#glowA)"/>
+  <ellipse cx="1090" cy="88" rx="246" ry="184" fill="url(#glowB)"/>
+  <ellipse cx="1092" cy="252" rx="320" ry="210" fill="url(#glowC)"/>
+
+  <g opacity="0.22">
+    <circle cx="1206" cy="66" r="6" fill="#F8FAFC"/>
+    <circle cx="1232" cy="66" r="6" fill="#F8FAFC"/>
+    <circle cx="1258" cy="66" r="6" fill="#F8FAFC"/>
+  </g>
+
+  <g opacity="0.55">
+    <path d="M842 130H1234" stroke="#7DD3FC" stroke-width="2" stroke-dasharray="8 10"/>
+    <path d="M906 170H1272" stroke="#86EFAC" stroke-width="2" stroke-dasharray="8 10"/>
+    <path d="M872 210H1188" stroke="#93C5FD" stroke-width="2" stroke-dasharray="8 10"/>
+  </g>
+
+  <text x="86" y="118" fill="#F8FAFC" font-family="'Segoe UI', Arial, sans-serif" font-size="46" font-weight="700">
+    Janmejoy Mahato
+  </text>
+  <text x="88" y="160" fill="#7DD3FC" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="600">
+    Full-Stack Developer | Product-Focused Engineer
+  </text>
+  <text x="88" y="196" fill="#CBD5E1" font-family="'Segoe UI', Arial, sans-serif" font-size="18">
+    Building secure, scalable web products with clean UX and dependable backend flows.
+  </text>
+
+  <g transform="translate(88 224)">
+    <rect width="166" height="36" rx="18" fill="rgba(14,165,233,0.16)" stroke="rgba(125,211,252,0.55)"/>
+    <text x="20" y="23" fill="#E0F2FE" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600">Next.js + TypeScript</text>
+  </g>
+  <g transform="translate(270 224)">
+    <rect width="142" height="36" rx="18" fill="rgba(52,211,153,0.14)" stroke="rgba(134,239,172,0.45)"/>
+    <text x="24" y="23" fill="#DCFCE7" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600">Secure Backends</text>
+  </g>
+  <g transform="translate(428 224)">
+    <rect width="176" height="36" rx="18" fill="rgba(96,165,250,0.14)" stroke="rgba(147,197,253,0.45)"/>
+    <text x="24" y="23" fill="#DBEAFE" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600">Production Mindset</text>
+  </g>
+
+  <g transform="translate(862 94)">
+    <rect width="120" height="48" rx="16" fill="rgba(15,23,42,0.42)" stroke="rgba(125,211,252,0.24)"/>
+    <text x="24" y="30" fill="#99F6E4" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="700">REAL APPS</text>
+  </g>
+  <g transform="translate(1000 94)">
+    <rect width="138" height="48" rx="16" fill="rgba(15,23,42,0.42)" stroke="rgba(134,239,172,0.22)"/>
+    <text x="22" y="30" fill="#A7F3D0" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="700">CLEAR SYSTEMS</text>
+  </g>
+  <g transform="translate(1156 94)">
+    <rect width="128" height="48" rx="16" fill="rgba(15,23,42,0.42)" stroke="rgba(147,197,253,0.22)"/>
+    <text x="22" y="30" fill="#BFDBFE" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="700">SHIP QUALITY</text>
+  </g>
+</svg>

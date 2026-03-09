@@ -1,0 +1,21 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="1" stop-color="#0B6B8A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="96" y1="134" x2="1104" y2="134" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" rx="20" fill="url(#bg)"/>
+  <rect x="18" y="18" width="1164" height="184" rx="16" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.08)"/>
+  <path d="M96 134H312L352 94H518L560 152H742L786 108H1104" stroke="url(#line)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="312" cy="134" r="10" fill="#67E8F9"/>
+  <circle cx="518" cy="94" r="10" fill="#67E8F9"/>
+  <circle cx="560" cy="152" r="10" fill="#34D399"/>
+  <circle cx="786" cy="108" r="10" fill="#34D399"/>
+  <text x="72" y="78" fill="#F8FAFC" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="700">Contribution Snake Placeholder</text>
+  <text x="72" y="108" fill="#CBD5E1" font-family="'Segoe UI', Arial, sans-serif" font-size="18">Replace with a GitHub Action generated snake SVG later.</text>
+</svg>
