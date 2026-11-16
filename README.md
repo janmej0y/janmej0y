@@ -1,104 +1,87 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Janmejoy Mahato Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:0F2A4D,100:0B6B8A&height=220&section=header&text=Janmejoy%20Mahato&fontSize=46&fontAlignY=38&fontColor=F8FAFC&desc=Full-Stack%20Developer%20%E2%80%A2%20Product-Focused%20Engineer&descSize=18&descAlignY=60&descColor=67E8F9" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1500&color=67E8F9&center=true&vCenter=true&width=920&lines=Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+Node.js;Building+clean+products+with+real+backend+logic" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1500&color=67E8F9&center=true&vCenter=true&width=920&lines=⚡+Full-Stack+Developer+crafting+modern+web+products;🚀+Next.js+15+%7C+TypeScript+%7C+Node.js;🛡️+Building+clean+products+with+dependable+backend+logic;🎯+Simplicity+is+prerequisite+for+reliability" alt="Typing Intro" />
 </p>
 
 <p align="center">
-  <a href="https://janmejoy.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/janmej0y"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://janmejoy.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-07111F?style=for-the-badge&logo=vercel&logoColor=67E8F9" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/janmej0y" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:janmejoymahato529@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="./assets/Janmejoy_Mahato(Resume).pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-0EA5E9?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
   <a href="https://github.com/janmej0y"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="./assets/Janmejoy_Mahato(Resume).pdf"><img src="https://img.shields.io/badge/Resume-14b8a6?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=janmej0y&label=Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/janmej0y?style=for-the-badge&label=Followers&color=2563eb" alt="Followers" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Full%20Stack-16a34a?style=for-the-badge" alt="Open to Work" />
+  <img src="https://komarev.com/ghpvc/?username=janmej0y&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/janmej0y?style=flat-square&label=Followers&color=2563eb" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-10b981?style=flat-square" alt="Status" />
 </p>
 
-## &#128075; About
+---
 
-Full-stack developer building polished apps, secure flows, and production-minded systems. I like turning practical ideas into clean, usable products with strong frontend UX and dependable backend logic.
+## ⚡ Terminal Overview
 
-## &#127912; Stack
+```bash
+janmejoy@workstation:~$ neofetch --profile
+
+ ███████╗██╗   ██╗██╗     ██╗         User: Janmejoy Mahato
+ ██╔════╝██║   ██║██║     ██║         Role: Full-Stack Developer & Product-Focused Engineer
+ █████╗  ██║   ██║██║     ██║         Stack: Next.js 15 • TypeScript • Node.js
+ ██╔══╝  ██║   ██║██║     ██║         Databases: Supabase • MongoDB • MySQL • SQLite
+ ██║     ╚██████╔╝███████╗███████╗    Focus: Clean UX • Resilient Architectures • Secure Flows
+ ╚═╝      ╚═════╝ ╚══════╝╚══════╝    Status: Open to Engineering Opportunities & Collabs
+```
+
+- 🚀 **Full-Stack Craftsmanship:** Bridging intuitive, high-performance frontend interfaces with robust, scalable server architectures.
+- 🔒 **Security-First Approach:** Focused on rock-solid authentication, tamper-proof state management, and reliable data integrity.
+- 💡 **Engineering Philosophy:** *"Programs must be written for people to read, and only incidentally for machines to execute."*
+
+---
+
+## 🛠️ Tech Stack & Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,mysql,supabase,tailwind,git,github,vercel,vscode&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,express,mongodb,mysql,supabase,git,github,vercel,vscode&perline=7" alt="Tech Stack Grid" />
 </p>
+
+<div align="center">
+
+| Domain | Core Technologies & Frameworks |
+| :--- | :--- |
+| **Frontend** | `Next.js 15` • `React 19` • `TypeScript` • `JavaScript (ES6+)` • `Tailwind CSS` • `HTML5 / CSS3` |
+| **Backend & APIs** | `Node.js` • `Express.js` • `RESTful APIs` • `JWT Auth` • `Server Actions` |
+| **Databases** | `Supabase (PostgreSQL)` • `MongoDB` • `MySQL` • `SQLite` |
+| **Tools & Platforms** | `Git` • `GitHub Actions` • `Vercel` • `VS Code` • `Postman` • `Linux` |
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Next.js%20%7C%20React%20%7C%20Tailwind-38bdf8?style=flat-square" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20JWT-22c55e?style=flat-square" alt="Backend" />
-  <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20MySQL%20%7C%20Supabase-f59e0b?style=flat-square" alt="Database" />
+  <img src="https://github-profile-trophies.vercel.app/?username=janmej0y&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-## &#127775; Featured Work
+---
 
-### &#127968; RentHub
-
-Modern rental platform focused on search, comparison, and booking experience.
-
-<p>
-  <a href="https://github.com/janmej0y/RentHub"><img src="https://img.shields.io/badge/Repo-RentHub-111827?style=for-the-badge&logo=github" alt="RentHub Repo" /></a>
-  <a href="https://rent-hub-two.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-16a34a?style=for-the-badge&logo=vercel&logoColor=white" alt="RentHub Live Demo" /></a>
-</p>
+## 📊 Analytics & Activity
 
 <p align="center">
-  <img src="./assets/renthub.gif" alt="RentHub Preview" width="100%" />
-</p>
-
-`Next.js 15` `TypeScript` `React 19` `Supabase`
-
-### &#128499;&#65039; EzeeVote
-
-Secure online voting system focused on verification, integrity, and admin control.
-
-<p>
-  <a href="https://github.com/janmej0y/Online-Voting-System"><img src="https://img.shields.io/badge/Repo-EzeeVote-111827?style=for-the-badge&logo=github" alt="EzeeVote Repo" /></a>
-  <a href="https://online-voting-system-henna.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-16a34a?style=for-the-badge&logo=vercel&logoColor=white" alt="EzeeVote Live Demo" /></a>
-</p>
-
-<p align="center">
-  <img src="./assets/ezeevote.gif" alt="EzeeVote Preview" width="100%" />
-</p>
-
-`Node.js` `Express` `SQLite` `JWT`
-
-## &#127909; Gallery
-
-| RentHub | EzeeVote |
-| --- | --- |
-| [![RentHub GIF](./assets/renthub.gif)](https://github.com/janmej0y/RentHub) | [![EzeeVote GIF](./assets/ezeevote.gif)](https://github.com/janmej0y/Online-Voting-System) |
-
-## &#128200; GitHub
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janmej0y&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janmej0y&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=janmej0y&show_icons=true&bg_color=07111F&title_color=67E8F9&text_color=CBD5E1&icon_color=34D399&border_color=1E293B&hide_border=false&border_radius=12&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janmej0y&layout=compact&bg_color=07111F&title_color=67E8F9&text_color=CBD5E1&border_color=1E293B&hide_border=false&border_radius=12" height="175" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=janmej0y&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=janmej0y&theme=tokyonight&background=07111F&border=1E293B&stroke=1E293B&ring=67E8F9&fire=34D399&currStreakNum=67E8F9&sideNums=CBD5E1&sideLabels=94A3B8&dates=64748B&hide_border=false&border_radius=12" height="175" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janmej0y&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janmej0y&theme=github_dark" alt="GitHub Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janmej0y&theme=github_dark" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=janmej0y&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
-</p>
-
-## &#128013; Snake
+## 🐍 Contribution Graph
 
 <p align="center">
   <picture>
@@ -107,37 +90,20 @@ Secure online voting system focused on verification, integrity, and admin contro
   </picture>
 </p>
 
-## &#10024; Extras
+---
+
+## 🤝 Let's Connect & Collaborate
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-System%20Design-0ea5e9?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Strength-Secure%20Flows-22c55e?style=for-the-badge" alt="Strength" />
-  <img src="https://img.shields.io/badge/Style-Production%20Ready-f59e0b?style=for-the-badge" alt="Style" />
-</p>
-
-> "Programs must be written for people to read."
->
-> "Simplicity is prerequisite for reliability."
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  I'm always excited to discuss full-stack architecture, collaborate on open-source initiatives, or explore new opportunities.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Learning%20in%20Public-2563eb?style=flat-square" alt="Open Source" />
-  <img src="https://img.shields.io/badge/Build%20Mode-Shipping%20Projects-16a34a?style=flat-square" alt="Build Mode" />
-  <img src="https://img.shields.io/badge/Interest-Auth%20%7C%20Dashboards%20%7C%20UX-f59e0b?style=flat-square" alt="Interest" />
+  <a href="https://janmejoy.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-janmejoy.is--a.dev-07111F?style=for-the-badge&logo=vercel&logoColor=67E8F9" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/janmej0y"><img src="https://img.shields.io/badge/LinkedIn-janmej0y-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:janmejoymahato529@gmail.com"><img src="https://img.shields.io/badge/Email-janmejoymahato529%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Collab-Open%20to%20Projects-0ea5e9?style=for-the-badge" alt="Collab" />
-  <img src="https://img.shields.io/badge/Focus-Clean%20Architecture-22c55e?style=for-the-badge" alt="Architecture" />
-  <img src="https://img.shields.io/badge/Goal-Top%20Tier%20Repos-f59e0b?style=for-the-badge" alt="Goal" />
-</p>
-
-
-<p align="center">
-  <a href="https://janmejoy.is-a.dev">Portfolio</a> |
-  <a href="https://www.linkedin.com/in/janmej0y">LinkedIn</a> |
-  <a href="mailto:janmejoymahato529@gmail.com">Email</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:0F2A4D,100:0B6B8A&height=100&section=footer" width="100%" alt="Footer" />
 </p>
