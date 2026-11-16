@@ -1,0 +1,56 @@
+<svg width="480" height="110" viewBox="0 0 480 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="480" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="1" stop-color="#0F2A4D"/>
+    </linearGradient>
+    <linearGradient id="artGrad" x1="0" y1="0" x2="70" y2="70" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B6B8A"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+    <style>
+      .bar { transform-origin: bottom; }
+      @keyframes bounce1 { 0%, 100% { height: 6px; y: 30px; } 50% { height: 26px; y: 10px; } }
+      @keyframes bounce2 { 0%, 100% { height: 24px; y: 12px; } 50% { height: 8px; y: 28px; } }
+      @keyframes bounce3 { 0%, 100% { height: 12px; y: 24px; } 50% { height: 30px; y: 6px; } }
+      @keyframes bounce4 { 0%, 100% { height: 28px; y: 8px; } 50% { height: 10px; y: 26px; } }
+      @keyframes bounce5 { 0%, 100% { height: 16px; y: 20px; } 50% { height: 22px; y: 14px; } }
+      .b1 { animation: bounce1 1.2s ease-in-out infinite; }
+      .b2 { animation: bounce2 1.4s ease-in-out infinite 0.2s; }
+      .b3 { animation: bounce3 1.1s ease-in-out infinite 0.4s; }
+      .b4 { animation: bounce4 1.3s ease-in-out infinite 0.1s; }
+      .b5 { animation: bounce5 1.5s ease-in-out infinite 0.3s; }
+    </style>
+  </defs>
+
+  <!-- Container -->
+  <rect width="480" height="110" rx="16" fill="url(#cardBg)"/>
+  <rect x="1" y="1" width="478" height="108" rx="15" stroke="#1E293B" stroke-width="1.5"/>
+
+  <!-- Album Art -->
+  <rect x="20" y="20" width="70" height="70" rx="12" fill="url(#artGrad)"/>
+  
+  <!-- Headphones Icon inside Art -->
+  <path d="M42 46C42 39.3726 47.3726 34 54 34C60.6274 34 66 39.3726 66 46V57C66 59.2091 64.2091 61 62 61H60C58.8954 61 58 60.1046 58 59V51C58 49.8954 58.8954 49 60 49H64V46C64 40.4772 59.5228 36 54 36C48.4772 36 44 40.4772 44 46V49H48C49.1046 49 50 49.8954 50 51V59C50 60.1046 49.1046 61 48 61H46C43.7909 61 42 59.2091 42 57V46Z" fill="#F8FAFC" opacity="0.9"/>
+
+  <!-- Status Label -->
+  <g transform="translate(106, 26)">
+    <circle cx="4" cy="4" r="4" fill="#10B981"/>
+    <text x="14" y="8" fill="#10B981" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1">CURRENTLY CODING TO</text>
+  </g>
+
+  <!-- Track Title -->
+  <text x="106" y="58" fill="#F8FAFC" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600">Deep Focus &amp; Lo-Fi Beats</text>
+
+  <!-- Subtitle -->
+  <text x="106" y="78" fill="#94A3B8" font-family="'Segoe UI', Arial, sans-serif" font-size="13">Janmejoy's Dev Session • Spotify</text>
+
+  <!-- Animated Sound Equalizer -->
+  <g transform="translate(410, 36)">
+    <rect class="b1" x="0" y="20" width="4" height="16" rx="2" fill="#67E8F9"/>
+    <rect class="b2" x="8" y="12" width="4" height="24" rx="2" fill="#34D399"/>
+    <rect class="b3" x="16" y="18" width="4" height="18" rx="2" fill="#67E8F9"/>
+    <rect class="b4" x="24" y="10" width="4" height="26" rx="2" fill="#34D399"/>
+    <rect class="b5" x="32" y="16" width="4" height="20" rx="2" fill="#67E8F9"/>
+  </g>
+</svg>

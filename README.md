@@ -137,7 +137,7 @@ graph LR
 
 <p align="center">
   <a href="https://open.spotify.com" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=janmejoy&cover_image=true&theme=novatorem&show_offline=true&background_color=07111f&interchange=true&bar_color=67e8f9&bar_color_cover=true" alt="Spotify Currently Playing" />
+    <img src="./assets/spotify-card.svg" alt="Janmejoy's Coding Soundtrack" />
   </a>
 </p>
 
