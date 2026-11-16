@@ -1,0 +1,17 @@
+name: ✍️ Sign Guestbook
+description: Leave a message, feedback, or friendly hello on Janmejoy's profile!
+title: "Guestbook: [Your Name or Handle]"
+labels: ["guestbook"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for visiting my GitHub profile! Drop a friendly note, project idea, or say hello below.
+  - type: textarea
+    id: message
+    attributes:
+      label: Your Message
+      description: What's on your mind?
+      placeholder: "Hey Janmejoy! Loved checking out your work..."
+    validations:
+      required: true

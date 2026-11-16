@@ -1,0 +1,10 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" rx="16" fill="#F8FAFC"/>
+  <rect x="2" y="2" width="796" height="196" rx="14" stroke="#E2E8F0" stroke-width="2"/>
+  <path d="M120 140L240 70L360 110L480 50L600 100L700 60" stroke="#0EA5E9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="240" cy="70" r="6" fill="#10B981"/>
+  <circle cx="360" cy="110" r="6" fill="#0EA5E9"/>
+  <circle cx="480" cy="50" r="6" fill="#10B981"/>
+  <circle cx="600" cy="100" r="6" fill="#0EA5E9"/>
+  <text x="400" y="165" text-anchor="middle" fill="#475569" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="600">3D Contribution Graph • Generated via GitHub Actions</text>
+</svg>
