@@ -20,17 +20,47 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-10b981?style=flat-square" alt="Status" />
 </p>
 
-<p align="center">
-  <i>"Turning complex logic into elegant, high-performance web products."</i>
-</p>
+---
+
+## ⚡ Terminal Overview
+
+```bash
+janmejoy@workstation:~$ neofetch --profile
+
+ ███████╗██╗   ██╗██╗     ██╗         User: Janmejoy Mahato
+ ██╔════╝██║   ██║██║     ██║         Role: Full-Stack Developer & Product-Focused Engineer
+ █████╗  ██║   ██║██║     ██║         Stack: Next.js 15 • TypeScript • Node.js
+ ██╔══╝  ██║   ██║██║     ██║         Databases: Supabase • MongoDB • MySQL • SQLite
+ ██║     ╚██████╔╝███████╗███████╗    Focus: Clean UX • Resilient Architectures • Secure Flows
+ ╚═╝      ╚═════╝ ╚══════╝╚══════╝    Status: Open to Engineering Opportunities & Collabs
+```
+
+- 🚀 **Full-Stack Craftsmanship:** Bridging intuitive, high-performance frontend interfaces with robust, scalable server architectures.
+- 🔒 **Security-First Approach:** Focused on rock-solid authentication, tamper-proof state management, and reliable data integrity.
+- 💡 **Engineering Philosophy:** *"Programs must be written for people to read, and only incidentally for machines to execute."*
 
 ---
 
+## 🛠️ Tech Stack & Arsenal
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,express,mongodb,mysql,supabase,git,github,vercel,vscode&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,express,mongodb,mysql,supabase,git,github,vercel,vscode&perline=7" alt="Tech Stack Grid" />
 </p>
 
+<div align="center">
+
+| Domain | Core Technologies & Frameworks |
+| :--- | :--- |
+| **Frontend** | `Next.js 15` • `React 19` • `TypeScript` • `JavaScript (ES6+)` • `Tailwind CSS` • `HTML5 / CSS3` |
+| **Backend & APIs** | `Node.js` • `Express.js` • `RESTful APIs` • `JWT Auth` • `Server Actions` |
+| **Databases** | `Supabase (PostgreSQL)` • `MongoDB` • `MySQL` • `SQLite` |
+| **Tools & Platforms** | `Git` • `GitHub Actions` • `Vercel` • `VS Code` • `Postman` • `Linux` |
+
+</div>
+
 ---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=janmej0y&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
@@ -38,12 +68,20 @@
 
 ---
 
+## 📊 Analytics & Activity
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=janmej0y&show_icons=true&bg_color=07111F&title_color=67E8F9&text_color=CBD5E1&icon_color=34D399&border_color=1E293B&hide_border=false&border_radius=12&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janmej0y&layout=compact&bg_color=07111F&title_color=67E8F9&text_color=CBD5E1&border_color=1E293B&hide_border=false&border_radius=12" height="175" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=janmej0y&theme=tokyonight&background=07111F&border=1E293B&stroke=1E293B&ring=67E8F9&fire=34D399&currStreakNum=67E8F9&sideNums=CBD5E1&sideLabels=94A3B8&dates=64748B&hide_border=false&border_radius=12" height="175" alt="GitHub Streak" />
 </p>
 
 ---
+
+## 🐍 Contribution Graph
 
 <p align="center">
   <picture>
@@ -54,8 +92,10 @@
 
 ---
 
+## 🤝 Let's Connect & Collaborate
+
 <p align="center">
-  <b>Let's build something extraordinary together!</b>
+  I'm always excited to discuss full-stack architecture, collaborate on open-source initiatives, or explore new opportunities.
 </p>
 
 <p align="center">
